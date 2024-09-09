@@ -23,12 +23,14 @@ a Objetos + Projetos</a> de <a href="https://github.com/acenelio">Nelio Alves</a
 
 
 Nós também vamos aprender as principais ferramentas e frameworks para se trabalhar com Java profissionalmente no
-mercado, tais como:
-JDBC para acesso a dados baseado em SQL
-JavaFX para interface gráfica
-Git / Github para versionamento
-Spring Boot - principal framework Java para desenvolvimento comercial em Java
-JPA / Hibernate para acesso a dados com mapeamento objeto-relacional (ORM)
-Maven para gerenciamento de dependências de projeto
-Spring Data JPA - framework para acesso a dados ORM
-Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB
+mercado, tais como: <br>
+<ul>
+<li>JDBC para acesso a dados baseado em SQL</li>
+<li>JavaFX para interface gráfica</li>
+<li>Git / Github para versionamento</li>
+<li>Spring Boot - principal framework Java para desenvolvimento comercial em Java</li>
+<li>JPA / Hibernate para acesso a dados com mapeamento objeto-relacional (ORM)</li>
+<li>Maven para gerenciamento de dependências de projeto</li>
+<li>Spring Data JPA - framework para acesso a dados ORM</li>
+<li>Spring Data MongoDB - framework para acesso a dados NoSQL ao banco MongoDB</li>
+</ul>
